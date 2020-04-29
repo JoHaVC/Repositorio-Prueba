@@ -5,7 +5,7 @@
         Dim numero1 As Integer
         Dim numero2 As Integer
         Dim suma As Integer
-        numero1 = 3
+        numero1 = 2
         numero2 = 5
         suma = numero1 + numero2
         Console.WriteLine(suma)
