@@ -6,7 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{8081C87B-6EAF-4ECA-90B5-88E141CB3111}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <StartupObject>ProyectoVB_PruebaGitHub.Module1</StartupObject>
+    <StartupObject>ProyectoVB_PruebaGitHub.Module2</StartupObject>
     <RootNamespace>ProyectoVB_PruebaGitHub</RootNamespace>
     <AssemblyName>ProyectoVB_PruebaGitHub</AssemblyName>
     <FileAlignment>512</FileAlignment>
@@ -69,6 +69,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Module1.vb" />
+    <Compile Include="Module2.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
